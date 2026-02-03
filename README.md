@@ -165,4 +165,20 @@ Known Limitations
     • Chrome must be installed (for browser automation)
     • Complex web pages with dynamic CSS classes can be problematic → use URL-Parameter Trick!
 
+Please add the following section to your instructions:
+
+"Create a folder named 'Auswahl llm' (Selection LLM) in the same directory as your Python program. Within this folder, you can store text files in the following format:
+
+AI Speech Hybrid Agent V44 D - LLM Settings Saved on: 7.12.2025, 01:30:10
+
+=== API SETTINGS ===
+URL: https://openrouter.ai/api/v1
+API Key: sk-or-v1-exxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+LLM Model: moonshotai/kimi-k2.5
+Temperature: 0.7
+Max Tokens: 128000
+Cost per Million: 2.5
+Azure API Key: sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
 Made by AI & Klaus
