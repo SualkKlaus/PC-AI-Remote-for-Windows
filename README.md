@@ -165,7 +165,6 @@ Known Limitations
     • Chrome must be installed (for browser automation)
     • Complex web pages with dynamic CSS classes can be problematic → use URL-Parameter Trick!
 
-Please add the following section to your instructions:
 
 "Create a folder named 'Auswahl llm' (Selection LLM) in the same directory as your Python program. Within this folder, you can store text files in the following format:
 
