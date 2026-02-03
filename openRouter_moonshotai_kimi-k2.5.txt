@@ -1,0 +1,14 @@
+AI Speech Hybrid Agent V44 D - LLM Einstellungen Gespeichert am: 7.12.2025, 01:30:10
+
+=== API EINSTELLUNGEN ===
+URL: https://openrouter.ai/api/v1
+API Key: sk-or-v1-exxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+LLM Model: moonshotai/kimi-k2.5
+Temperature: 0.7
+Max Tokens: 128000
+Kosten pro Million: 2.5
+Azure API Key: sk-or-v1-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+=== SYSTEM PROMPT ===
+Bitte antworte auf Deutsch.
+

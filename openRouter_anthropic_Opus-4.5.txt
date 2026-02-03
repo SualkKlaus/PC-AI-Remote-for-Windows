@@ -1,0 +1,14 @@
+AI Speech Hybrid Agent V44 D - LLM Einstellungen Gespeichert am: 7.12.2025, 01:30:10
+
+=== API EINSTELLUNGEN ===
+URL: https://openrouter.ai/api/v1
+API Key: sk-or-v1-e3421ddxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+LLM Model: anthropic/claude-opus-4.5
+Temperature: 0.7
+Max Tokens: 128000
+Kosten pro Million: 25
+Azure API Key: sk-or-v1-exxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+=== SYSTEM PROMPT ===
+Bitte antworte auf Deutsch.
+
